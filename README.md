@@ -25,11 +25,13 @@
 
   <tr>
     <td align="center" width="50%">
-      <b>5️⃣ 扇形预测区间图（时间序列预测）</b><br/>
+      <b>5️⃣ 扇形预测区间图</b><br/>
       <img src="https://github.com/user-attachments/assets/b126d0e0-d3d3-4d8a-a093-624ea8fb9740" width="520" />
     </td>
     <td align="center" width="50%">
-      <b>6️⃣</b><br/>
+      <b>6️⃣ 事件时间线图</b><br/>
+      <img width="1456" height="879" alt="image" src="https://github.com/user-attachments/assets/a6a2e399-3bbb-489c-8da8-fb55d0e8596d" />
+
       <div style="width:520px;height:300px;border:1px dashed #ddd;border-radius:8px;"></div>
     </td>
   </tr>
