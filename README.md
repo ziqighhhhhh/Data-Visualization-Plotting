@@ -22,4 +22,15 @@
       <img src="https://github.com/user-attachments/assets/212c631c-19b5-427b-b172-93ed74b90d41" width="520" />
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <b>5️⃣ 扇形预测区间图（时间序列预测）</b><br/>
+      <img src="https://github.com/user-attachments/assets/b126d0e0-d3d3-4d8a-a093-624ea8fb9740" width="520" />
+    </td>
+    <td align="center" width="50%">
+      <b>6️⃣</b><br/>
+      <div style="width:520px;height:300px;border:1px dashed #ddd;border-radius:8px;"></div>
+    </td>
+  </tr>
 </table>
