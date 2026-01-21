@@ -18,7 +18,7 @@
       <img src="https://github.com/user-attachments/assets/4b909597-cdc0-40f9-ae9e-c714138b7935" width="520" />
     </td>
     <td align="center" width="50%">
-      <b>4️⃣ 图基悬挂根图（Hanging Rootogram）</b><br/>
+      <b>4️⃣ 图基悬挂根图</b><br/>
       <img src="https://github.com/user-attachments/assets/212c631c-19b5-427b-b172-93ed74b90d41" width="520" />
     </td>
   </tr>
