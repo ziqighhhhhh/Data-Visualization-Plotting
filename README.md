@@ -16,6 +16,6 @@
 <br/>
 
 <div align="center">
-  <b>3️⃣ 3D 瀑布图（3D Waterfall / Ridge Plot）</b><br/>
+  <b>3️⃣ 3D 瀑布图</b><br/>
   <img src="https://github.com/user-attachments/assets/4b909597-cdc0-40f9-ae9e-c714138b7935" width="520" />
 </div>
