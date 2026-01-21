@@ -26,7 +26,6 @@ for m in range(n_months):
     width = 2.6 + 0.15 * (m % 3)
     curves.append(make_month_curve(days, peak_day, peak_height, width, noise=7, seed=100 + m))
 
-
 fig = plt.figure(figsize=(10, 8), dpi=160)
 ax = fig.add_subplot(111, projection="3d")
 
@@ -50,19 +49,21 @@ poly = PolyCollection(
 y_positions = np.arange(1, n_months + 1)
 ax.add_collection3d(poly, zs=y_positions, zdir="y")
 
-
 ax.set_xlim(1, days_in_month)
 ax.set_ylim(0.5, n_months + 0.8)
 ax.set_zlim(0, max(np.max(c) for c in curves) * 1.15)
 
 ax.set_xlabel("日", labelpad=10)
 
-ax.set_yticks(y_positions)
-ax.set_yticklabels([f"{i}月" for i in y_positions])
+
+ax.set_yticks([])  
+
+x_text = days_in_month + 1.0  
+for i, y in enumerate(y_positions, start=1):
+    ax.text(x_text, y, z_text, f"{i}月", ha="left", va="center", fontsize=10)
 
 ax.zaxis.set_rotate_label(False)
 ax.zaxis.labelpad = 22
-
 ax.zaxis.label.set_color("#000000")
 
 ax.view_init(elev=25, azim=-55)
@@ -73,7 +74,6 @@ ax.zaxis.pane.set_alpha(0.0)
 ax.grid(True)
 
 fig.subplots_adjust(left=0.03, right=0.92, bottom=0.03, top=0.98)
-
 
 fig.text(0.89, 0.55, "销售额（万元）", rotation=90, va="center", ha="center")
 
