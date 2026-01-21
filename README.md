@@ -11,18 +11,15 @@
       <img src="https://github.com/user-attachments/assets/6496ad02-93d3-4445-84c1-72a9ef36559e" width="520" />
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <b>3️⃣ 3D 瀑布图（多时间维度销售结构）</b><br/>
+      <img src="https://github.com/user-attachments/assets/4b909597-cdc0-40f9-ae9e-c714138b7935" width="520" />
+    </td>
+    <td align="center" width="50%">
+      <b>4️⃣ 图基悬挂根图（Hanging Rootogram）</b><br/>
+      <img src="https://github.com/user-attachments/assets/212c631c-19b5-427b-b172-93ed74b90d41" width="520" />
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <b>3️⃣ 3D 瀑布图（多时间维度销售结构）</b><br/>
-  <img src="https://github.com/user-attachments/assets/4b909597-cdc0-40f9-ae9e-c714138b7935" width="520" />
-</div>
-
-<br/>
-
-<div align="center">
-  <b>4️⃣ 图基悬挂根图（Hanging Rootogram）</b><br/>
-  <img src="https://github.com/user-attachments/assets/212c631c-19b5-427b-b172-93ed74b90d41" width="520" />
-</div>
