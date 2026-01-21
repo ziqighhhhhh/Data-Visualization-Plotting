@@ -35,3 +35,5 @@
     </td>
   </tr>
 </table>
+复合气泡图和饼图
+<img width="1238" height="965" alt="image" src="https://github.com/user-attachments/assets/91ade8cb-6721-4a81-9149-6f803e2acf92" />
