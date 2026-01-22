@@ -51,9 +51,9 @@
       <img src="https://github.com/user-attachments/assets/c7e3de87-5881-4055-93cb-baf504e34c8c" width="520" />
     </td>
     <td align="center" width="50%">
-      <b>🔟（预留）</b><br/>
+      <b>🔟 比例面积图</b><br/>
       <div style="width:520px;height:292px;border:1px dashed #bbb;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#888;">
-        Add next visualization here
+        <img width="1239" height="1239" alt="image" src="https://github.com/user-attachments/assets/3c6181e2-a3bf-4b83-a4df-69cd5d460717" width="520" />
       </div>
     </td>
   </tr>
