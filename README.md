@@ -100,7 +100,7 @@
 </details>
 
 <details id="v11">
-  <summary><b>⏸️ Marimekko图</b>（用面积快速比较比例：无需刻度也能概览）</summary>
+  <summary><b>⏸️ Marimekko图</b>（矩形面积代表分项贡献，可直观比较规模、结构与贡献度）</summary>
   <br/>
   <a href="https://github.com/user-attachments/assets/3c6181e2-a3bf-4b83-a4df-69cd5d460717">
     <img src="https://github.com/user-attachments/assets/5bf85fc4-e79a-40c3-88b9-034afabfa474" width="900" />
