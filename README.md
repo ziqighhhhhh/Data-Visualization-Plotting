@@ -30,10 +30,18 @@
     </td>
     <td align="center" width="50%">
       <b>6️⃣ 事件时间线图</b><br/>
-      <img width="1456" height="879" alt="image" src="https://github.com/user-attachments/assets/a6a2e399-3bbb-489c-8da8-fb55d0e8596d"width="520" />
-      <div style="width:520px;height:300px;border:1px dashed #ddd;border-radius:8px;"></div>
+      <img src="https://github.com/user-attachments/assets/a6a2e399-3bbb-489c-8da8-fb55d0e8596d" width="520" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <b>7️⃣ 复合气泡图与饼图</b><br/>
+      <img src="https://github.com/user-attachments/assets/91ade8cb-6721-4a81-9149-6f803e2acf92" width="520" />
+    </td>
+    <td align="center" width="50%">
+      <b>8️⃣ 蝴蝶条形图</b><br/>
+      <img src="https://github.com/user-attachments/assets/1a9a4e32-2a05-4c81-9bf2-4de62522a9dd" width="520" />
     </td>
   </tr>
 </table>
-复合气泡图和饼图
-<img width="1238" height="965" alt="image" src="https://github.com/user-attachments/assets/91ade8cb-6721-4a81-9149-6f803e2acf92" />
