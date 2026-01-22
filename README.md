@@ -14,6 +14,7 @@
   <li><a href="#v8">8️⃣ 蝴蝶条形图</a></li>
   <li><a href="#v9">9️⃣ 旭日图（Sunburst）</a></li>
   <li><a href="#v10">🔟 比例面积图</a></li>
+  <li><a href="#v11">⏸️ Marimekko图</li>
 </ul>
 
 <hr/>
@@ -95,5 +96,13 @@
   <br/>
   <a href="https://github.com/user-attachments/assets/3c6181e2-a3bf-4b83-a4df-69cd5d460717">
     <img src="https://github.com/user-attachments/assets/3c6181e2-a3bf-4b83-a4df-69cd5d460717" width="900" />
+  </a>
+</details>
+
+<details id="v11">
+  <summary><b>⏸️ Marimekko图</b>（用面积快速比较比例：无需刻度也能概览）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/3c6181e2-a3bf-4b83-a4df-69cd5d460717">
+    <img src="https://github.com/user-attachments/assets/5bf85fc4-e79a-40c3-88b9-034afabfa474" width="900" />
   </a>
 </details>
