@@ -19,7 +19,7 @@
     </td>
     <td align="center" width="50%">
       <b>4️⃣ 图基悬挂根图</b><br/>
-      <img src="https://github.com/user-attachments/assets/212c631c-19b5-427b-b172-93ed74b90d41" width="520" />
+      <img src="https://github.com/user-attachments/assets/da64ceac-0e50-4b9e-8b4a-05fc055fb2d0" width="520" />
     </td>
   </tr>
 
