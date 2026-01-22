@@ -1,60 +1,99 @@
 <h2>🖼️ Visualization Showcase</h2>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>1️⃣ 月–季–年三层级柱状对比图</b><br/>
-      <img src="https://github.com/user-attachments/assets/98e3a031-2cde-41a4-bdaa-98b0ae217035" width="520" />
-    </td>
-    <td align="center" width="50%">
-      <b>2️⃣ 消费总量环形柱状图</b><br/>
-      <img src="https://github.com/user-attachments/assets/6496ad02-93d3-4445-84c1-72a9ef36559e" width="520" />
-    </td>
-  </tr>
+<p><i>Tip: Click the item in the directory to jump, then expand the section to view the full image.</i></p>
 
-  <tr>
-    <td align="center" width="50%">
-      <b>3️⃣ 3D 瀑布图（多时间维度销售结构）</b><br/>
-      <img src="https://github.com/user-attachments/assets/4b909597-cdc0-40f9-ae9e-c714138b7935" width="520" />
-    </td>
-    <td align="center" width="50%">
-      <b>4️⃣ 图基悬挂根图（Hanging Rootogram）</b><br/>
-      <img src="https://github.com/user-attachments/assets/da64ceac-0e50-4b9e-8b4a-05fc055fb2d0" width="520" />
-    </td>
-  </tr>
+<h3>📚 Directory</h3>
+<ul>
+  <li><a href="#v1">1️⃣ 月–季–年三层级柱状对比图</a></li>
+  <li><a href="#v2">2️⃣ 消费总量环形柱状图</a></li>
+  <li><a href="#v3">3️⃣ 3D 瀑布图（多时间维度销售结构）</a></li>
+  <li><a href="#v4">4️⃣ 图基悬挂根图（Hanging Rootogram）</a></li>
+  <li><a href="#v5">5️⃣ 扇形预测区间图</a></li>
+  <li><a href="#v6">6️⃣ 事件时间线图</a></li>
+  <li><a href="#v7">7️⃣ 复合气泡图与饼图</a></li>
+  <li><a href="#v8">8️⃣ 蝴蝶条形图</a></li>
+  <li><a href="#v9">9️⃣ 旭日图（Sunburst）</a></li>
+  <li><a href="#v10">🔟 比例面积图</a></li>
+</ul>
 
-  <tr>
-    <td align="center" width="50%">
-      <b>5️⃣ 扇形预测区间图</b><br/>
-      <img src="https://github.com/user-attachments/assets/b126d0e0-d3d3-4d8a-a093-624ea8fb9740" width="520" />
-    </td>
-    <td align="center" width="50%">
-      <b>6️⃣ 事件时间线图</b><br/>
-      <img src="https://github.com/user-attachments/assets/a6a2e399-3bbb-489c-8da8-fb55d0e8596d" width="520" />
-    </td>
-  </tr>
+<hr/>
 
-  <tr>
-    <td align="center" width="50%">
-      <b>7️⃣ 复合气泡图与饼图</b><br/>
-      <img src="https://github.com/user-attachments/assets/91ade8cb-6721-4a81-9149-6f803e2acf92" width="520" />
-    </td>
-    <td align="center" width="50%">
-      <b>8️⃣ 蝴蝶条形图</b><br/>
-      <img src="https://github.com/user-attachments/assets/1a9a4e32-2a05-4c81-9bf2-4de62522a9dd" width="520" />
-    </td>
-  </tr>
+<details id="v1">
+  <summary><b>1️⃣ 月–季–年三层级柱状对比图</b>（对比：月 / 季 / 年结构与趋势）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/98e3a031-2cde-41a4-bdaa-98b0ae217035">
+    <img src="https://github.com/user-attachments/assets/98e3a031-2cde-41a4-bdaa-98b0ae217035" width="900" />
+  </a>
+</details>
 
-  <tr>
-    <td align="center" width="50%">
-      <b>9️⃣ 旭日图（Sunburst）</b><br/>
-      <img src="https://github.com/user-attachments/assets/c7e3de87-5881-4055-93cb-baf504e34c8c" width="520" />
-    </td>
-    <td align="center" width="50%">
-      <b>🔟 比例面积图</b><br/>
-      <div style="width:520px;height:292px;border:1px dashed #bbb;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#888;">
-        <img width="1239" height="1239" alt="image" src="https://github.com/user-attachments/assets/3c6181e2-a3bf-4b83-a4df-69cd5d460717" width="520" />
-      </div>
-    </td>
-  </tr>
-</table>
+<details id="v2">
+  <summary><b>2️⃣ 消费总量环形柱状图</b>（总量 + 结构的同图表达）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/6496ad02-93d3-4445-84c1-72a9ef36559e">
+    <img src="https://github.com/user-attachments/assets/6496ad02-93d3-4445-84c1-72a9ef36559e" width="900" />
+  </a>
+</details>
+
+<details id="v3">
+  <summary><b>3️⃣ 3D 瀑布图（多时间维度销售结构）</b>（多维度：时间 × 品类 × 规模）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/4b909597-cdc0-40f9-ae9e-c714138b7935">
+    <img src="https://github.com/user-attachments/assets/4b909597-cdc0-40f9-ae9e-c714138b7935" width="900" />
+  </a>
+</details>
+
+<details id="v4">
+  <summary><b>4️⃣ 图基悬挂根图（Hanging Rootogram）</b>（对比：当前分布 vs 历史基准分布）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/da64ceac-0e50-4b9e-8b4a-05fc055fb2d0">
+    <img src="https://github.com/user-attachments/assets/da64ceac-0e50-4b9e-8b4a-05fc055fb2d0" width="900" />
+  </a>
+</details>
+
+<details id="v5">
+  <summary><b>5️⃣ 扇形预测区间图</b>（未来区间：不确定性随时间扩散）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/b126d0e0-d3d3-4d8a-a093-624ea8fb9740">
+    <img src="https://github.com/user-attachments/assets/b126d0e0-d3d3-4d8a-a093-624ea8fb9740" width="900" />
+  </a>
+</details>
+
+<details id="v6">
+  <summary><b>6️⃣ 事件时间线图</b>（事件 / 节点 / 里程碑的时间序列叙事）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/a6a2e399-3bbb-489c-8da8-fb55d0e8596d">
+    <img src="https://github.com/user-attachments/assets/a6a2e399-3bbb-489c-8da8-fb55d0e8596d" width="900" />
+  </a>
+</details>
+
+<details id="v7">
+  <summary><b>7️⃣ 复合气泡图与饼图</b>（同时表达：年份、总量、结构占比、类别分布）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/91ade8cb-6721-4a81-9149-6f803e2acf92">
+    <img src="https://github.com/user-attachments/assets/91ade8cb-6721-4a81-9149-6f803e2acf92" width="900" />
+  </a>
+</details>
+
+<details id="v8">
+  <summary><b>8️⃣ 蝴蝶条形图</b>（两组结构对比：左右镜像更直观）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/1a9a4e32-2a05-4c81-9bf2-4de62522a9dd">
+    <img src="https://github.com/user-attachments/assets/1a9a4e32-2a05-4c81-9bf2-4de62522a9dd" width="900" />
+  </a>
+</details>
+
+<details id="v9">
+  <summary><b>9️⃣ 旭日图（Sunburst）</b>（层级结构：国家 → 品类 等）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/c7e3de87-5881-4055-93cb-baf504e34c8c">
+    <img src="https://github.com/user-attachments/assets/c7e3de87-5881-4055-93cb-baf504e34c8c" width="900" />
+  </a>
+</details>
+
+<details id="v10">
+  <summary><b>🔟 比例面积图</b>（用面积快速比较比例：无需刻度也能概览）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/3c6181e2-a3bf-4b83-a4df-69cd5d460717">
+    <img src="https://github.com/user-attachments/assets/3c6181e2-a3bf-4b83-a4df-69cd5d460717" width="900" />
+  </a>
+</details>
