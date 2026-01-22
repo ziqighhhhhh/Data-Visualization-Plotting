@@ -18,7 +18,7 @@
       <img src="https://github.com/user-attachments/assets/4b909597-cdc0-40f9-ae9e-c714138b7935" width="520" />
     </td>
     <td align="center" width="50%">
-      <b>4️⃣ 图基悬挂根图</b><br/>
+      <b>4️⃣ 图基悬挂根图（Hanging Rootogram）</b><br/>
       <img src="https://github.com/user-attachments/assets/da64ceac-0e50-4b9e-8b4a-05fc055fb2d0" width="520" />
     </td>
   </tr>
@@ -44,8 +44,17 @@
       <img src="https://github.com/user-attachments/assets/1a9a4e32-2a05-4c81-9bf2-4de62522a9dd" width="520" />
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <b>9️⃣ 旭日图（Sunburst）</b><br/>
+      <img src="https://github.com/user-attachments/assets/c7e3de87-5881-4055-93cb-baf504e34c8c" width="520" />
+    </td>
+    <td align="center" width="50%">
+      <b>🔟（预留）</b><br/>
+      <div style="width:520px;height:292px;border:1px dashed #bbb;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#888;">
+        Add next visualization here
+      </div>
+    </td>
+  </tr>
 </table>
-
-
-旭日图
-<img width="1260" height="895" alt="image" src="https://github.com/user-attachments/assets/c7e3de87-5881-4055-93cb-baf504e34c8c" />
