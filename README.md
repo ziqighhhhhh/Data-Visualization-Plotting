@@ -1,7 +1,4 @@
 <h2>🖼️ Visualization Showcase</h2>
-
-<p><i>Tip: Click the item in the directory to jump, then expand the section to view the full image.</i></p>
-
 <h3>📚 Directory</h3>
 <ul>
   <li><a href="#v1">1️⃣ 月–季–年三层级柱状对比图</a></li>
@@ -14,7 +11,8 @@
   <li><a href="#v8">8️⃣ 蝴蝶条形图</a></li>
   <li><a href="#v9">9️⃣ 旭日图（Sunburst）</a></li>
   <li><a href="#v10">🔟 比例面积图</a></li>
-  <li><a href="#v11">⏸️ Marimekko图</li>
+  <li><a href="#v11">1️⃣1️⃣ 极坐标面积图（Polar Area / Coxcomb）</a></li>
+  <li><a href="#v12">1️⃣2️⃣ Marimekko图</a></li>
 </ul>
 
 <hr/>
@@ -100,9 +98,17 @@
 </details>
 
 <details id="v11">
-  <summary><b>⏸️ Marimekko图</b>（矩形面积代表分项贡献，可直观比较规模、结构与贡献度）</summary>
+  <summary><b>1️⃣1️⃣ 极坐标面积图（Polar Area / Coxcomb）</b>（12个月分面 + 多品类堆叠，面积代表销售贡献）</summary>
   <br/>
-  <a href="https://github.com/user-attachments/assets/3c6181e2-a3bf-4b83-a4df-69cd5d460717">
+  <a href="https://github.com/user-attachments/assets/4fd9d1a3-4155-483d-9b39-6ce396d9e4ef">
+    <img src="https://github.com/user-attachments/assets/4fd9d1a3-4155-483d-9b39-6ce396d9e4ef" width="900" />
+  </a>
+</details>
+
+<details id="v12">
+  <summary><b>1️⃣2️⃣ Marimekko图</b>（矩形面积代表分项贡献，可直观比较规模、结构与贡献度）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/5bf85fc4-e79a-40c3-88b9-034afabfa474">
     <img src="https://github.com/user-attachments/assets/5bf85fc4-e79a-40c3-88b9-034afabfa474" width="900" />
   </a>
 </details>
