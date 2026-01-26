@@ -1,4 +1,5 @@
 <h2>🖼️ Visualization Showcase</h2>
+
 <h3>📚 Directory</h3>
 <ul>
   <li><a href="#v1">1️⃣ 月–季–年三层级柱状对比图</a></li>
@@ -12,8 +13,10 @@
   <li><a href="#v9">9️⃣ 旭日图（Sunburst）</a></li>
   <li><a href="#v10">🔟 比例面积图</a></li>
   <li><a href="#v11">1️⃣1️⃣ 极坐标面积图（Polar Area / Coxcomb）</a></li>
-  <li><a href="#v12">1️⃣2️⃣ Marimekko图</a></li>
+  <li><a href="#v12">1️⃣2️⃣ Marimekko 图</a></li>
   <li><a href="#v13">1️⃣3️⃣ 柱线组合图</a></li>
+  <li><a href="#v14">1️⃣4️⃣ 饼中饼（Pie-of-Pie）</a></li>
+  <li><a href="#v15">1️⃣5️⃣ 表格 + 条形数据条（Data Bars Table）</a></li>
 </ul>
 
 <hr/>
@@ -107,23 +110,34 @@
 </details>
 
 <details id="v12">
-  <summary><b>1️⃣2️⃣ Marimekko图</b>（矩形面积代表分项贡献，可直观比较规模、结构与贡献度）</summary>
+  <summary><b>1️⃣2️⃣ Marimekko 图</b>（矩形面积代表分项贡献，可直观比较规模、结构与贡献度）</summary>
   <br/>
   <a href="https://github.com/user-attachments/assets/5bf85fc4-e79a-40c3-88b9-034afabfa474">
     <img src="https://github.com/user-attachments/assets/5bf85fc4-e79a-40c3-88b9-034afabfa474" width="900" />
   </a>
 </details>
 
-<details id="v12">
-  <summary><b>1️⃣3️⃣柱线组合图</b>（左轴看规模（金额/数量），右轴看增速（同比%））</summary>
+<!-- 修正：原先这里误写成 id="v12"，现更正为 v13 -->
+<details id="v13">
+  <summary><b>1️⃣3️⃣ 柱线组合图</b>（左轴看规模（金额/数量），右轴看增速（同比%））</summary>
   <br/>
   <a href="https://github.com/user-attachments/assets/2a9c6741-b2bc-434e-8019-08a0dbcce534">
-    <img width="900"src="https://github.com/user-attachments/assets/2a9c6741-b2bc-434e-8019-08a0dbcce534" />
+    <img src="https://github.com/user-attachments/assets/2a9c6741-b2bc-434e-8019-08a0dbcce534" width="900" />
   </a>
 </details>
-饼中饼
-<img width="1005" height="490" alt="image" src="https://github.com/user-attachments/assets/4f1fd7a8-f0c8-42e5-ab8f-b82b799ba9b4" />
-表格 + 条形数据条
-<img width="2679" height="1019" alt="image" src="https://github.com/user-attachments/assets/90069421-4d3a-4b76-a839-3856b186fdb9" />
 
+<details id="v14">
+  <summary><b>1️⃣4️⃣ 饼中饼（Pie-of-Pie）</b>（主类占比 + 子类拆解：同时看“总盘”与“细分”）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/4f1fd7a8-f0c8-42e5-ab8f-b82b799ba9b4">
+    <img src="https://github.com/user-attachments/assets/4f1fd7a8-f0c8-42e5-ab8f-b82b799ba9b4" width="900" />
+  </a>
+</details>
 
+<details id="v15">
+  <summary><b>1️⃣5️⃣ 表格 + 条形数据条（Data Bars Table）</b>（用数据条增强“对比感”：表格读数 + 视觉排序一体化）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/90069421-4d3a-4b76-a839-3856b186fdb9">
+    <img src="https://github.com/user-attachments/assets/90069421-4d3a-4b76-a839-3856b186fdb9" width="900" />
+  </a>
+</details>
