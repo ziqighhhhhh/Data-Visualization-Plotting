@@ -123,4 +123,7 @@
 </details>
 饼中饼
 <img width="1005" height="490" alt="image" src="https://github.com/user-attachments/assets/4f1fd7a8-f0c8-42e5-ab8f-b82b799ba9b4" />
+表格 + 条形数据条
+<img width="2679" height="1019" alt="image" src="https://github.com/user-attachments/assets/90069421-4d3a-4b76-a839-3856b186fdb9" />
+
 
