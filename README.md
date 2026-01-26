@@ -13,6 +13,7 @@
   <li><a href="#v10">🔟 比例面积图</a></li>
   <li><a href="#v11">1️⃣1️⃣ 极坐标面积图（Polar Area / Coxcomb）</a></li>
   <li><a href="#v12">1️⃣2️⃣ Marimekko图</a></li>
+  <li><a href="#v13">1️⃣3️⃣ 柱线组合图</a></li>
 </ul>
 
 <hr/>
@@ -112,3 +113,12 @@
     <img src="https://github.com/user-attachments/assets/5bf85fc4-e79a-40c3-88b9-034afabfa474" width="900" />
   </a>
 </details>
+
+<details id="v12">
+  <summary><b>1️⃣3️⃣柱线组合图</b>（左轴看规模（金额/数量），右轴看增速（同比%））</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/2a9c6741-b2bc-434e-8019-08a0dbcce534">
+    <img width="900"src="https://github.com/user-attachments/assets/2a9c6741-b2bc-434e-8019-08a0dbcce534" />
+  </a>
+</details>
+
