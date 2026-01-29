@@ -17,6 +17,11 @@
   <li><a href="#v13">1️⃣3️⃣ 柱线组合图</a></li>
   <li><a href="#v14">1️⃣4️⃣ 饼中饼（Pie-of-Pie）</a></li>
   <li><a href="#v15">1️⃣5️⃣ 表格 + 条形数据条（Data Bars Table）</a></li>
+
+  <!-- 新增 3 张图 -->
+  <li><a href="#v16">1️⃣6️⃣ 用户转化漏斗图</a></li>
+  <li><a href="#v17">1️⃣7️⃣ 堆叠进度条形图 + 达成率折线图</a></li>
+  <li><a href="#v18">1️⃣8️⃣ 分组柱状图 + 同比变化</a></li>
 </ul>
 
 <hr/>
@@ -117,7 +122,6 @@
   </a>
 </details>
 
-<!-- 修正：原先这里误写成 id="v12"，现更正为 v13 -->
 <details id="v13">
   <summary><b>1️⃣3️⃣ 柱线组合图</b>（左轴看规模（金额/数量），右轴看增速（同比%））</summary>
   <br/>
@@ -141,9 +145,28 @@
     <img src="https://github.com/user-attachments/assets/90069421-4d3a-4b76-a839-3856b186fdb9" width="900" />
   </a>
 </details>
-用户转化漏斗图
-<img width="580" height="590" alt="image" src="https://github.com/user-attachments/assets/fa066404-5024-497b-8892-7e18b75f8a34" />
 
-堆叠进度条形图 + 达成率折线图
-<img width="728" height="482" alt="image" src="https://github.com/user-attachments/assets/bb1d889b-aa13-4956-a561-d483665dbe15" />
+<!-- =========================
+     新增 3 张图：v16–v18
+     ========================= -->
 
+<details id="v16">
+  <summary><b>1️⃣6️⃣ 用户转化漏斗图</b>（展示：流量/线索/转化在各阶段的流失与转化效率）</summary>
+  <br/>
+  <img width="580" height="590" alt="用户转化漏斗图"
+       src="https://github.com/user-attachments/assets/fa066404-5024-497b-8892-7e18b75f8a34" />
+</details>
+
+<details id="v17">
+  <summary><b>1️⃣7️⃣ 堆叠进度条形图 + 达成率折线图</b>（展示：结构进度 + 目标达成率在同一视图里联动）</summary>
+  <br/>
+  <img width="728" height="482" alt="堆叠进度条形图 + 达成率折线图"
+       src="https://github.com/user-attachments/assets/bb1d889b-aa13-4956-a561-d483665dbe15" />
+</details>
+
+<details id="v18">
+  <summary><b>1️⃣8️⃣ 分组柱状图 + 同比变化</b>（展示：两期对比 + 增长/下降的同比信息叠加）</summary>
+  <br/>
+  <img width="900" alt="分组柱状图 + 同比变化"
+       src="https://github.com/user-attachments/assets/7662a446-af4f-4464-8594-9a612991aa32" />
+</details>
