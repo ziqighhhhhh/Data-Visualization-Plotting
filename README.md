@@ -21,6 +21,8 @@
   <li><a href="#v17">1️⃣7️⃣ 堆叠进度条形图 + 达成率折线图</a></li>
   <li><a href="#v18">1️⃣8️⃣ 分组柱状图 + 同比变化</a></li>
   <li><a href="#v19">1️⃣9️⃣ 多面板年度对比仪表式柱状图</a></li>
+  <li><a href="#v20">2️⃣0️⃣ 渐变山峰面积图</a></li>
+
 </ul>
 
 <hr/>
@@ -170,4 +172,10 @@
   <br/>
   <img width="900" alt="多面板年度对比仪表式柱状图"
        src="https://github.com/user-attachments/assets/1af10919-43d8-467c-a33c-10fca146ef6d" />
+</details>
+<details id="v20">
+  <summary><b>2️⃣0️⃣ 渐变山峰面积图</b>（用“山峰轮廓 + 渐变填充”表达趋势强弱与波动节奏）</summary>
+  <br/>
+  <img width="900" alt="渐变山峰面积图"
+       src="https://github.com/user-attachments/assets/04083b76-f29a-4e6f-8c99-ddb0f2ca39a7" />
 </details>
