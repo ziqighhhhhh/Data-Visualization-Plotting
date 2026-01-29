@@ -179,3 +179,17 @@
   <img width="900" alt="渐变山峰面积图"
        src="https://github.com/user-attachments/assets/04083b76-f29a-4e6f-8c99-ddb0f2ca39a7" />
 </details>
+
+<hr/>
+
+<h3>🌐 在线图表方法库（本地运行）</h3>
+<p>仓库新增了一个轻量级网页应用，可以用于：</p>
+<ul>
+  <li>浏览所有图表方法与示例截图</li>
+  <li>上传 CSV / Excel 数据，快速生成常见图表</li>
+</ul>
+
+<h4>快速开始</h4>
+<pre><code>pip install -r requirements.txt
+streamlit run app.py
+</code></pre>
