@@ -17,11 +17,10 @@
   <li><a href="#v13">1️⃣3️⃣ 柱线组合图</a></li>
   <li><a href="#v14">1️⃣4️⃣ 饼中饼（Pie-of-Pie）</a></li>
   <li><a href="#v15">1️⃣5️⃣ 表格 + 条形数据条（Data Bars Table）</a></li>
-
-  <!-- 新增 3 张图 -->
   <li><a href="#v16">1️⃣6️⃣ 用户转化漏斗图</a></li>
   <li><a href="#v17">1️⃣7️⃣ 堆叠进度条形图 + 达成率折线图</a></li>
   <li><a href="#v18">1️⃣8️⃣ 分组柱状图 + 同比变化</a></li>
+  <li><a href="#v19">1️⃣9️⃣ 多面板年度对比仪表式柱状图</a></li>
 </ul>
 
 <hr/>
@@ -145,11 +144,6 @@
     <img src="https://github.com/user-attachments/assets/90069421-4d3a-4b76-a839-3856b186fdb9" width="900" />
   </a>
 </details>
-
-<!-- =========================
-     新增 3 张图：v16–v18
-     ========================= -->
-
 <details id="v16">
   <summary><b>1️⃣6️⃣ 用户转化漏斗图</b>（展示：流量/线索/转化在各阶段的流失与转化效率）</summary>
   <br/>
@@ -171,6 +165,9 @@
        src="https://github.com/user-attachments/assets/7662a446-af4f-4464-8594-9a612991aa32" />
 </details>
 
-
-多面板年度对比仪表式柱状图
-<img width="2212" height="1500" alt="image" src="https://github.com/user-attachments/assets/1af10919-43d8-467c-a33c-10fca146ef6d" />
+<details id="v19">
+  <summary><b>1️⃣9️⃣ 多面板年度对比仪表式柱状图</b>（一页看全：规模 + 增长 + 结构 + 关键指标的年度对比）</summary>
+  <br/>
+  <img width="900" alt="多面板年度对比仪表式柱状图"
+       src="https://github.com/user-attachments/assets/1af10919-43d8-467c-a33c-10fca146ef6d" />
+</details>
