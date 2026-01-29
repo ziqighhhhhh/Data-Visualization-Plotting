@@ -144,3 +144,6 @@
 用户转化漏斗图
 <img width="580" height="590" alt="image" src="https://github.com/user-attachments/assets/fa066404-5024-497b-8892-7e18b75f8a34" />
 
+堆叠进度条形图 + 达成率折线图
+<img width="728" height="482" alt="image" src="https://github.com/user-attachments/assets/bb1d889b-aa13-4956-a561-d483665dbe15" />
+
