@@ -179,15 +179,3 @@
   <img width="900" alt="渐变山峰面积图"
        src="https://github.com/user-attachments/assets/04083b76-f29a-4e6f-8c99-ddb0f2ca39a7" />
 </details>
-
-<script>
-  document.querySelectorAll('[data-open]').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const id = btn.getAttribute('data-open');
-      const el = document.getElementById(id);
-      if (!el) return;
-      el.open = true;                 // 自动展开 <details>
-      el.scrollIntoView({ behavior: 'smooth', block: 'start' }); // 平滑滚动
-    });
-  });
-</script>
