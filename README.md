@@ -170,3 +170,7 @@
   <img width="900" alt="分组柱状图 + 同比变化"
        src="https://github.com/user-attachments/assets/7662a446-af4f-4464-8594-9a612991aa32" />
 </details>
+
+
+多面板年度对比仪表式柱状图
+<img width="2212" height="1500" alt="image" src="https://github.com/user-attachments/assets/1af10919-43d8-467c-a33c-10fca146ef6d" />
