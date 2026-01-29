@@ -141,3 +141,6 @@
     <img src="https://github.com/user-attachments/assets/90069421-4d3a-4b76-a839-3856b186fdb9" width="900" />
   </a>
 </details>
+用户转化漏斗图
+<img width="580" height="590" alt="image" src="https://github.com/user-attachments/assets/fa066404-5024-497b-8892-7e18b75f8a34" />
+
