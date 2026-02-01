@@ -22,6 +22,7 @@
   <li><a href="#v18">1️⃣8️⃣ 分组柱状图 + 同比变化</a></li>
   <li><a href="#v19">1️⃣9️⃣ 多面板年度对比仪表式柱状图</a></li>
   <li><a href="#v20">2️⃣0️⃣ 渐变山峰面积图</a></li>
+  <li><a href="#v21">2️⃣1️⃣ 同比/环比/占比三合一复合图</a></li>
 
 </ul>
 
@@ -179,3 +180,12 @@
   <img width="900" alt="渐变山峰面积图"
        src="https://github.com/user-attachments/assets/04083b76-f29a-4e6f-8c99-ddb0f2ca39a7" />
 </details>
+<details id="v21">
+  <summary><b>2️⃣1️⃣ 同比/环比/占比三合一复合图</b>（环比曲线 + 同比柱 + 双柱营收 + 占比标记）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/b8c05786-0281-4e8b-9f66-0b62e9e906bc">
+    <img width="900" alt="同比/环比/占比三合一复合图"
+         src="https://github.com/user-attachments/assets/b8c05786-0281-4e8b-9f66-0b62e9e906bc" />
+  </a>
+</details>
+
