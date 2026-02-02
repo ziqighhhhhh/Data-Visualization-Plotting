@@ -188,4 +188,5 @@
          src="https://github.com/user-attachments/assets/b8c05786-0281-4e8b-9f66-0b62e9e906bc" />
   </a>
 </details>
-
+极值区间高亮的趋势图
+<img width="1481" height="1471" alt="image" src="https://github.com/user-attachments/assets/686267be-de58-459a-830f-56f8c5bd761e" />
