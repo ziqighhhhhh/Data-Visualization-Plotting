@@ -23,6 +23,9 @@
   <li><a href="#v19">1️⃣9️⃣ 多面板年度对比仪表式柱状图</a></li>
   <li><a href="#v20">2️⃣0️⃣ 渐变山峰面积图</a></li>
   <li><a href="#v21">2️⃣1️⃣ 同比/环比/占比三合一复合图</a></li>
+  <li><a href="#v22">2️⃣2️⃣ 极值区间高亮的趋势图</a></li>
+  <li><a href="#v23">2️⃣3️⃣ 计划 vs 实际组合对比图</a></li>
+
 
 </ul>
 
@@ -188,5 +191,22 @@
          src="https://github.com/user-attachments/assets/b8c05786-0281-4e8b-9f66-0b62e9e906bc" />
   </a>
 </details>
-极值区间高亮的趋势图
-<img width="1481" height="1471" alt="image" src="https://github.com/user-attachments/assets/686267be-de58-459a-830f-56f8c5bd761e" />
+<details id="v22">
+  <summary><b>2️⃣2️⃣ 极值区间高亮的趋势图</b>（平滑趋势 + 均值线 + MAX/MIN 标注 + 区间高亮）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/686267be-de58-459a-830f-56f8c5bd761e">
+    <img width="900" alt="极值区间高亮的趋势图"
+         src="https://github.com/user-attachments/assets/686267be-de58-459a-830f-56f8c5bd761e" />
+  </a>
+</details>
+
+<details id="v23">
+  <summary><b>2️⃣3️⃣ 计划 vs 实际组合对比图</b>（计划/实际对比 + 堆叠差额 + 差异比例环形标注）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/dcf7aac9-1ebe-48e9-8045-c954986423eb">
+    <img width="900" alt="计划 vs 实际组合对比图"
+         src="https://github.com/user-attachments/assets/dcf7aac9-1ebe-48e9-8045-c954986423eb" />
+  </a>
+</details>
+
+
