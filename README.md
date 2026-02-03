@@ -209,3 +209,12 @@
          src="https://github.com/user-attachments/assets/dcf7aac9-1ebe-48e9-8045-c954986423eb" />
   </a>
 </details>
+<details id="v24">
+  
+  <summary><b>2️⃣4️⃣ 半圆环占比图 + 月度柱状图</b>（上半环看占比 + 下柱看月度规模，带均值参考线与标注）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/ac215861-d4ba-447d-8f56-c8f95f3b58d6">
+    <img width="900" alt="半圆环占比图 + 月度柱状图"
+         src="https://github.com/user-attachments/assets/ac215861-d4ba-447d-8f56-c8f95f3b58d6" />
+  </a>
+</details>
