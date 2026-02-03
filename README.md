@@ -209,4 +209,6 @@
   </a>
 </details>
 
+半圆环占比图+ 月度柱状图
+<img width="1255" height="870" alt="image" src="https://github.com/user-attachments/assets/ac215861-d4ba-447d-8f56-c8f95f3b58d6" />
 
