@@ -25,6 +25,7 @@
   <li><a href="#v21">2️⃣1️⃣ 同比/环比/占比三合一复合图</a></li>
   <li><a href="#v22">2️⃣2️⃣ 极值区间高亮的趋势图</a></li>
   <li><a href="#v23">2️⃣3️⃣ 计划 vs 实际组合对比图</a></li>
+  <li><a href="#v24">2️⃣4️⃣ 半圆环占比图 + 月度柱状图</a></li>
 
 
 </ul>
@@ -208,7 +209,3 @@
          src="https://github.com/user-attachments/assets/dcf7aac9-1ebe-48e9-8045-c954986423eb" />
   </a>
 </details>
-
-半圆环占比图+ 月度柱状图
-<img width="1255" height="870" alt="image" src="https://github.com/user-attachments/assets/ac215861-d4ba-447d-8f56-c8f95f3b58d6" />
-
