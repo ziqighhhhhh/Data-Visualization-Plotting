@@ -33,6 +33,7 @@
   <li><a href="#v24">2️⃣4️⃣ 半圆环占比图 + 月度柱状图</a></li>
   <li><a href="#v25">2️⃣5️⃣ 重叠柱状对比图 + 独立同比变化柱图</a></li>
   <li><a href="#v26">2️⃣6️⃣ 双时间点变化图（Slopegraph）</a></li>
+  <li><a href="#v27">2️⃣7️⃣ 100格面积图（Waffle Funnel）</a></li>
 
 
 
@@ -241,6 +242,14 @@
   <a href="https://github.com/user-attachments/assets/fc3396e7-72a1-4b89-a77a-92e74fb64fbe">
     <img width="900" alt="双时间点变化图（Slopegraph）"
          src="https://github.com/user-attachments/assets/fc3396e7-72a1-4b89-a77a-92e74fb64fbe" />
+  </a>
+</details>
+<details id="v27">
+  <summary><b>2️⃣7️⃣ 100格面积图（Waffle Funnel）</b>（10×10 方格=100%；用颜色分层表达漏斗各阶段占比）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/f5ce8fea-e8d6-465d-a715-f696a3e1d4ba">
+    <img width="900" alt="100格面积图（Waffle Funnel）"
+         src="https://github.com/user-attachments/assets/f5ce8fea-e8d6-465d-a715-f696a3e1d4ba" />
   </a>
 </details>
 
