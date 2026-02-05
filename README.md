@@ -34,7 +34,7 @@
   <li><a href="#v25">2️⃣5️⃣ 重叠柱状对比图 + 独立同比变化柱图</a></li>
   <li><a href="#v26">2️⃣6️⃣ 双时间点变化图（Slopegraph）</a></li>
   <li><a href="#v27">2️⃣7️⃣ 100格面积图（Waffle Funnel）</a></li>
-  <li><a href="#v27">2️⃣8️⃣ 分组横向条形图（Grouped horizontal bar chart）</a></li>
+  <li><a href="#v28">2️⃣8️⃣ 分组横向条形图（Grouped horizontal bar chart）</a></li>
 
 
 
