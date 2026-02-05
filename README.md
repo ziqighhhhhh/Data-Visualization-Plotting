@@ -34,6 +34,7 @@
   <li><a href="#v25">2️⃣5️⃣ 重叠柱状对比图 + 独立同比变化柱图</a></li>
   <li><a href="#v26">2️⃣6️⃣ 双时间点变化图（Slopegraph）</a></li>
   <li><a href="#v27">2️⃣7️⃣ 100格面积图（Waffle Funnel）</a></li>
+  <li><a href="#v27">2️⃣8️⃣ 分组横向条形图（Grouped horizontal bar chart）</a></li>
 
 
 
@@ -252,4 +253,14 @@
          src="https://github.com/user-attachments/assets/f5ce8fea-e8d6-465d-a715-f696a3e1d4ba" />
   </a>
 </details>
+
+<details id="v28">
+  <summary><b>2️⃣8️⃣ 分组横向条形图（Grouped horizontal bar chart）</b>（强调重点信息）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/90cb0c49-00e5-4150-97a0-d10a7bb617f8">
+    <img width="900" alt="分组横向条形图（Waffle Funnel）"
+         src="https://github.com/user-attachments/assets/90cb0c49-00e5-4150-97a0-d10a7bb617f8" />
+  </a>
+</details>
+
 
