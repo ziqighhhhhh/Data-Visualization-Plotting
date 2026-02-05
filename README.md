@@ -32,6 +32,8 @@
   <li><a href="#v23">2️⃣3️⃣ 计划 vs 实际组合对比图</a></li>
   <li><a href="#v24">2️⃣4️⃣ 半圆环占比图 + 月度柱状图</a></li>
   <li><a href="#v25">2️⃣5️⃣ 重叠柱状对比图 + 独立同比变化柱图</a></li>
+  <li><a href="#v26">2️⃣6️⃣ 双时间点变化图（Slopegraph）</a></li>
+
 
 
 </ul>
@@ -232,3 +234,13 @@
          src="https://github.com/user-attachments/assets/66c5f66a-6c4a-4007-93c7-ea870c1be21a" />
   </a>
 </details>
+
+<details id="v26">
+  <summary><b>2️⃣6️⃣ 双时间点变化图（Slopegraph）</b>（两个年份两端点连线对比；可高亮重点维度）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/fc3396e7-72a1-4b89-a77a-92e74fb64fbe">
+    <img width="900" alt="双时间点变化图（Slopegraph）"
+         src="https://github.com/user-attachments/assets/fc3396e7-72a1-4b89-a77a-92e74fb64fbe" />
+  </a>
+</details>
+
