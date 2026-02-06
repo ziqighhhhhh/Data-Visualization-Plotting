@@ -1,4 +1,4 @@
-## 《用数据讲故事》（Storytelling with Data）各章节核心设计原则提炼（Markdown版）
+## 《用数据讲故事》（Storytelling with Data）
 
 ### 第一章：上下文的重要性（The Importance of Context）
 
