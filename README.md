@@ -35,6 +35,7 @@
   <li><a href="#v26">2️⃣6️⃣ 双时间点变化图（Slopegraph）</a></li>
   <li><a href="#v27">2️⃣7️⃣ 100格面积图（Waffle Funnel）</a></li>
   <li><a href="#v28">2️⃣8️⃣ 分组横向条形图（Grouped horizontal bar chart）</a></li>
+   <li><a href="#v29">2️⃣9️⃣ 四象限分析散点图（Quadrant Scatter Plot）</a></li>
 
 
 
@@ -260,6 +261,14 @@
   <a href="https://github.com/user-attachments/assets/90cb0c49-00e5-4150-97a0-d10a7bb617f8">
     <img width="900" alt="分组横向条形图（Waffle Funnel）"
          src="https://github.com/user-attachments/assets/90cb0c49-00e5-4150-97a0-d10a7bb617f8" />
+  </a>
+</details>
+<details id="v29">
+  <summary><b>2️⃣9️⃣ 四象限分析散点图（Quadrant Scatter Plot）</b>（两个核心指标交叉定位；用均值线划分优先级）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/1e642813-9343-4722-820f-b5bd6c3ba6e5">
+    <img width="900" alt="四象限分析散点图（Quadrant Scatter Plot）"
+         src="https://github.com/user-attachments/assets/1e642813-9343-4722-820f-b5bd6c3ba6e5" />
   </a>
 </details>
 
