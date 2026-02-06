@@ -37,8 +37,6 @@
   <li><a href="#v28">2️⃣8️⃣ 分组横向条形图（Grouped horizontal bar chart）</a></li>
    <li><a href="#v29">2️⃣9️⃣ 四象限分析散点图（Quadrant Scatter Plot）</a></li>
 
-
-
 </ul>
 
 <hr/>
@@ -47,7 +45,7 @@
   <summary><b>1️⃣ 月–季–年三层级柱状对比图</b>（对比：月 / 季 / 年结构与趋势）</summary>
   <br/>
   <a href="https://github.com/user-attachments/assets/98e3a031-2cde-41a4-bdaa-98b0ae217035">
-    <img src="https://github.com/user-attachments/assets/98e3a031-2cde-41a4-bdaa-98b0ae217035" width="900" />
+    <img src="https://github.com/user-attachments/assets/caf9e012-3b6a-4e9d-b2c0-7971ba5bf0b8" width="900" />
   </a>
 </details>
 
