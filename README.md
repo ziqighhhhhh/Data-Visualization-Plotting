@@ -1,6 +1,7 @@
 
 <h2>配色推荐</h2>
 <img width="989" height="829" alt="image" src="https://github.com/user-attachments/assets/0cc5c348-97bc-4448-98ba-c366917f2777" />
+<img width="989" height="829" alt="image" src="https://github.com/user-attachments/assets/f3410716-5df4-452c-896f-ee85bb36b66b" />
 
 
 <h2>🖼️ Visualization Showcase</h2>
