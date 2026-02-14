@@ -36,8 +36,9 @@
   <li><a href="#v26">2️⃣6️⃣ 双时间点变化图（Slopegraph）</a></li>
   <li><a href="#v27">2️⃣7️⃣ 100格面积图（Waffle Funnel）</a></li>
   <li><a href="#v28">2️⃣8️⃣ 分组横向条形图（Grouped horizontal bar chart）</a></li>
-   <li><a href="#v29">2️⃣9️⃣ 四象限分析散点图（Quadrant Scatter Plot）</a></li>
-
+  <li><a href="#v29">2️⃣9️⃣ 四象限分析散点图（Quadrant Scatter Plot）</a></li>
+  <li><a href="#v30">3️⃣0️⃣ 散点气泡图（Bubble Scatter Plot）</a></li>
+  <li><a href="#v31">3️⃣1️⃣ 分面折线图（Faceted / Small Multiples Line Chart）</a></li>
 </ul>
 
 <hr/>
@@ -271,5 +272,20 @@
   </a>
 </details>
 
-散点气泡图
-<img width="1162" height="1263" alt="image" src="https://github.com/user-attachments/assets/302c86ba-3eee-4df3-877b-5d9eb0b71e1b" />
+<details id="v30">
+  <summary><b>3️⃣0️⃣ 散点气泡图（Bubble Scatter Plot）</b>（三维信息表达：x/y + 气泡大小；适合规模-效率-增长等组合对比）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/302c86ba-3eee-4df3-877b-5d9eb0b71e1b">
+    <img width="900" alt="散点气泡图（Bubble Scatter Plot）"
+         src="https://github.com/user-attachments/assets/302c86ba-3eee-4df3-877b-5d9eb0b71e1b" />
+  </a>
+</details>
+
+<details id="v31">
+  <summary><b>3️⃣1️⃣ 分面折线图（Faceted / Small Multiples Line Chart）</b>（按类别分行展示趋势；弱化量级差异，突出“走势形状”比较）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/db97e8e4-ba1a-4a14-b1a4-8713319368c7">
+    <img width="900" alt="分面折线图（Faceted Line Chart / Small Multiples）"
+         src="https://github.com/user-attachments/assets/db97e8e4-ba1a-4a14-b1a4-8713319368c7" />
+  </a>
+</details>
