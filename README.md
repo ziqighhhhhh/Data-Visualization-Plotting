@@ -39,6 +39,8 @@
   <li><a href="#v29">2️⃣9️⃣ 四象限分析散点图（Quadrant Scatter Plot）</a></li>
   <li><a href="#v30">3️⃣0️⃣ 散点气泡图（Bubble Scatter Plot）</a></li>
   <li><a href="#v31">3️⃣1️⃣ 分面折线图（Faceted / Small Multiples Line Chart）</a></li>
+  <li><a href="#v32">3️⃣2️⃣ 小多图折线图（Highlighted Small Multiples Line Chart）</a></li>
+
 </ul>
 
 <hr/>
@@ -287,5 +289,14 @@
   <a href="https://github.com/user-attachments/assets/db97e8e4-ba1a-4a14-b1a4-8713319368c7">
     <img width="900" alt="分面折线图（Faceted Line Chart / Small Multiples）"
          src="https://github.com/user-attachments/assets/db97e8e4-ba1a-4a14-b1a4-8713319368c7" />
+  </a>
+</details>
+
+<details id="v32">
+  <summary><b>3️⃣2️⃣ 小多图折线图（Highlighted Small Multiples Line Chart）</b>（同一组时间序列分面展示；每个面板高亮一个类别，其余作为灰色对照背景）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/6a5cb5f6-e6df-4bdc-baf6-7368f93e33cc">
+    <img width="900" alt="小多图折线图（Highlighted Small Multiples Line Chart）"
+         src="https://github.com/user-attachments/assets/6a5cb5f6-e6df-4bdc-baf6-7368f93e33cc" />
   </a>
 </details>
