@@ -40,8 +40,8 @@
   <li><a href="#v30">3️⃣0️⃣ 散点气泡图（Bubble Scatter Plot）</a></li>
   <li><a href="#v31">3️⃣1️⃣ 分面折线图（Faceted / Small Multiples Line Chart）</a></li>
   <li><a href="#v32">3️⃣2️⃣ 小多图折线图（Highlighted Small Multiples Line Chart）</a></li>
-  <li><a href="#v32">3️⃣3️⃣ 月度趋势组合分析图（Monthly Performance Combination Chart）</a></li>
-
+  <li><a href="#v33">3️⃣3️⃣ 月度趋势组合分析图（Monthly Performance Combination Chart）</a></li>
+<li><a href="#v34">3️⃣4️⃣ 分组高亮折线图（Highlighted Segmented Line Chart）</a></li>
 </ul>
 
 <hr/>
@@ -303,10 +303,10 @@
 </details>
 
 <details id="v33">
-  <summary><b>3️⃣2️⃣ 月度趋势组合分析图（Monthly Performance Combination Chart）</b>（融合柱状图、趋势平滑曲线、环比增减箭头与增长率标注的复合型经营分析图；下方柱体用于展示月度核心指标，上方曲线用于表现整体波动趋势，并通过红绿颜色区分增长与下降状态，适用于销售、客户、询盘、经营数据等时间序列分析场景）</summary>
+  <summary><b>3️⃣3️⃣ 分组高亮折线图（Highlighted Segmented Line Chart）</b>（将不同产品或类别按独立分区进行时间序列展示，通过背景分组与重点高亮机制强化核心对象；重点系列采用主色突出，其余系列作为低饱和对照背景，用于展示不同产品在季度、月份等阶段中的变化趋势与目标达成情况，适用于产品经营分析、销售 KPI、市场表现与业务对比场景）</summary>
   <br/>
-  <a href="https://github.com/user-attachments/assets/430dbf1a-be87-403c-983a-fe506a76c7f0">
-    <img width="900" alt="月度趋势组合分析图（Monthly Performance Combination Chart）"
-         src="https://github.com/user-attachments/assets/430dbf1a-be87-403c-983a-fe506a76c7f0" />
+  <a href="https://github.com/user-attachments/assets/abb8f902-bafe-4203-8680-465d42cc2833">
+    <img width="900" alt="分组高亮折线图（Highlighted Segmented Line Chart）"
+         src="https://github.com/user-attachments/assets/abb8f902-bafe-4203-8680-465d42cc2833" />
   </a>
 </details>
