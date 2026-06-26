@@ -41,7 +41,8 @@
   <li><a href="#v31">3️⃣1️⃣ 分面折线图（Faceted / Small Multiples Line Chart）</a></li>
   <li><a href="#v32">3️⃣2️⃣ 小多图折线图（Highlighted Small Multiples Line Chart）</a></li>
   <li><a href="#v33">3️⃣3️⃣ 组合趋势分析图（Performance Combination Chart）</a></li>
-<li><a href="#v34">3️⃣4️⃣ 分组高亮折线图（Highlighted Segmented Line Chart）</a></li>
+  <li><a href="#v34">3️⃣4️⃣ 分组高亮折线图（Highlighted Segmented Line Chart）</a></li>
+  <li><a href="#v35">3️⃣5️⃣ 弧形排行图 / 径向柱状图（Arc Ranking Chart）</a></li>
 </ul>
 
 <hr/>
@@ -303,7 +304,7 @@
 </details>
 
 
-<details id="v34">
+<details id="v33">
   <summary><b>3️⃣3️⃣ 组合趋势分析图（Performance Combination Chart）</b>（将不同产品或类别按独立分区进行时间序列展示，通过背景分组与重点高亮机制强化核心对象；重点系列采用主色突出，其余系列作为低饱和对照背景，用于展示不同产品在季度、月份等阶段中的变化趋势与目标达成情况，适用于产品经营分析、销售 KPI、市场表现与业务对比场景）</summary>
   <br/>
   <a href="https://github.com/user-attachments/assets/abb8f902-bafe-4203-8680-465d42cc2833">
@@ -318,5 +319,14 @@
   <a href="https://github.com/user-attachments/assets/abb8f902-bafe-4203-8680-465d42cc2833">
     <img width="900" alt="分组高亮折线图（Highlighted Segmented Line Chart）"
          src="https://github.com/user-attachments/assets/abb8f902-bafe-4203-8680-465d42cc2833" />
+  </a>
+</details>
+
+<details id="v35">
+  <summary><b>3️⃣5️⃣ 弧形排行图 / 径向柱状图（Arc Ranking Chart）</b>（用弧线长度表达数值大小，同心圆按数值排名递进，带有强烈的竞速与排行意味）</summary>
+  <br/>
+  <a href="https://github.com/user-attachments/assets/abb8f902-bafe-4203-8680-465d42cc2833">
+    <img width="900" alt="分组高亮折线图（Highlighted Segmented Line Chart）"
+         src="https://github.com/user-attachments/assets/4a0c3252-6e5a-462c-bf74-9bc2eff8337b" />
   </a>
 </details>
